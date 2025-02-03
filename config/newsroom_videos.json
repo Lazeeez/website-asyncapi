@@ -1,32 +1,32 @@
 [
   {
-    "image_url": "https://i.ytimg.com/vi/l9Tp5eMTol4/hqdefault.jpg",
-    "title": "Community Health in Open-source",
-    "description": "Community health in open-source refers to the overall well-being of the individuals that contribute to a particular open-source ...",
-    "videoId": "l9Tp5eMTol4"
+    "image_url": "https://i.ytimg.com/vi/5hY8yi6DXyE/hqdefault.jpg",
+    "title": "Marketing WG Meeting, 14:00 UTC Tuesday December 17th 2024",
+    "description": "Welcoming the 2024 cohort of the AsyncAPI mentorship program.",
+    "videoId": "5hY8yi6DXyE"
   },
   {
-    "image_url": "https://i.ytimg.com/vi/4Zo59cOcFUw/hqdefault.jpg",
-    "title": "Community meeting (May 16th 2023)",
-    "description": "https://github.com/asyncapi/community/issues/705.",
-    "videoId": "4Zo59cOcFUw"
+    "image_url": "https://i.ytimg.com/vi/QWRcCvDmf04/hqdefault.jpg",
+    "title": "AsyncAPI Mentorship Program 2024 Cohort Kick-off",
+    "description": "Welcoming the 2024 cohort of the AsyncAPI mentorship program.",
+    "videoId": "QWRcCvDmf04"
   },
   {
-    "image_url": "https://i.ytimg.com/vi/7urTb207V-8/hqdefault.jpg",
-    "title": "Spec 3.0 meeting (May 10th 2023)",
-    "description": "https://github.com/asyncapi/community/issues/699.",
-    "videoId": "7urTb207V-8"
+    "image_url": "https://i.ytimg.com/vi/XirMXiBNaBM/hqdefault.jpg",
+    "title": "Community Meeting, 16:00 UTC Tuesday November 26th 2024",
+    "description": "",
+    "videoId": "XirMXiBNaBM"
   },
   {
-    "image_url": "https://i.ytimg.com/vi/nyEu2un3Xkg/hqdefault.jpg",
-    "title": "AsyncAPI x Google Season of Doc&#39;s 2023",
-    "description": "https://github.com/asyncapi/community/issues/692.",
-    "videoId": "nyEu2un3Xkg"
+    "image_url": "https://i.ytimg.com/vi/Q2cvxsUUgzA/hqdefault.jpg",
+    "title": "AsyncAPI-Powered Event Feeds: 3 Steps to Streaming",
+    "description": "In this livestream, we'll dive into the challenges and benefits of using AsyncAPI for building event-driven architectures.",
+    "videoId": "Q2cvxsUUgzA"
   },
   {
-    "image_url": "https://i.ytimg.com/vi/Z8lnRHL-lCM/hqdefault.jpg",
-    "title": "Community meeting (May 2nd 2023)",
-    "description": "https://github.com/asyncapi/community/issues/688.",
-    "videoId": "Z8lnRHL-lCM"
+    "image_url": "https://i.ytimg.com/vi/9MaHh4b-rmc/hqdefault.jpg",
+    "title": "Broadening the API Landscape: AsyncAPI and CloudEvents in the Enterprise -  Daniel Kocot",
+    "description": "",
+    "videoId": "9MaHh4b-rmc"
   }
 ]
